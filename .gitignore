@@ -9,3 +9,4 @@ bin/Debug/netcoreapp2.2/
 # appsettings.json
 .DS_Store
 .vscode
+obj/Debug/netcoreapp2.2/Api.assets.cache
