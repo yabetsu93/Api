@@ -14,4 +14,16 @@ restore() {
     dotnet restore
 }
 
+startMigration() {
+    dotnet ef migrations add InitialCreate
+}
+
+updateMigration() {
+    dotnet ef database update
+}
+
+removeMigration() {
+    dotnet ef migrations remove
+}
+
 $*
