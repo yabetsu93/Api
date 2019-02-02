@@ -1,8 +1,11 @@
 obj/
 obj/Debug
+obj/Debug/netcoreapp2.1/
+obj/Debug/netcoreapp2.2/
 bin/
 bin/Debug
-bin/Debug/
+bin/Debug/netcoreapp2.1/
+bin/Debug/netcoreapp2.2/
 # appsettings.json
 .DS_Store
 .vscode
