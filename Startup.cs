@@ -31,11 +31,6 @@ namespace Api
             services.AddEntityFrameworkSqlServer();
             services.AddDbContextPool<ApplicationDbContext>(options =>
                 options.UseMySql(Configuration.GetConnectionString("ConnectionString")));
-
-            // configure mysql connection
-            var sqlConfig = new MySqlConfig();
-            Configuration.Bind("ConnectionStrings", sqlConfig);
-            services.AddSingleton(sqlConfig);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
