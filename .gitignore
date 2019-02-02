@@ -1,5 +1,7 @@
 obj/
 obj/Debug/
+bin/
+bin/Debug/
 appsettings.json
 .DS_Store
 .vscode
