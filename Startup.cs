@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Api.Models.Database;
+using Microsoft.EntityFrameworkCore;
 
 namespace Api
 {
@@ -26,6 +28,9 @@ namespace Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddEntityFrameworkSqlServer();
+            services.AddDbContextPool<ApplicationDbContext>(options =>
+                options.UseMySql(Configuration.GetConnectionString("ConnectionString")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
