@@ -1,0 +1,14 @@
+/Users/jabzpauya/Desktop/sideProj/API/Api/bin/Debug/netcoreapp2.1/Api.deps.json
+/Users/jabzpauya/Desktop/sideProj/API/Api/bin/Debug/netcoreapp2.1/Api.runtimeconfig.json
+/Users/jabzpauya/Desktop/sideProj/API/Api/bin/Debug/netcoreapp2.1/Api.runtimeconfig.dev.json
+/Users/jabzpauya/Desktop/sideProj/API/Api/bin/Debug/netcoreapp2.1/Api.dll
+/Users/jabzpauya/Desktop/sideProj/API/Api/bin/Debug/netcoreapp2.1/Api.pdb
+/Users/jabzpauya/Desktop/sideProj/API/Api/obj/Debug/netcoreapp2.1/Api.csprojAssemblyReference.cache
+/Users/jabzpauya/Desktop/sideProj/API/Api/obj/Debug/netcoreapp2.1/Api.csproj.CoreCompileInputs.cache
+/Users/jabzpauya/Desktop/sideProj/API/Api/obj/Debug/netcoreapp2.1/Api.RazorAssemblyInfo.cache
+/Users/jabzpauya/Desktop/sideProj/API/Api/obj/Debug/netcoreapp2.1/Api.RazorAssemblyInfo.cs
+/Users/jabzpauya/Desktop/sideProj/API/Api/obj/Debug/netcoreapp2.1/Api.AssemblyInfoInputs.cache
+/Users/jabzpauya/Desktop/sideProj/API/Api/obj/Debug/netcoreapp2.1/Api.AssemblyInfo.cs
+/Users/jabzpauya/Desktop/sideProj/API/Api/obj/Debug/netcoreapp2.1/Api.RazorTargetAssemblyInfo.cache
+/Users/jabzpauya/Desktop/sideProj/API/Api/obj/Debug/netcoreapp2.1/Api.dll
+/Users/jabzpauya/Desktop/sideProj/API/Api/obj/Debug/netcoreapp2.1/Api.pdb
