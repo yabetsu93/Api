@@ -2,6 +2,7 @@ obj/
 obj/Debug
 bin/
 bin/Debug
+bin/Debug/
 appsettings.json
 .DS_Store
 .vscode
