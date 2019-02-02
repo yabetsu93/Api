@@ -15,3 +15,16 @@ build
 
 restore 
 ./do.sh restore
+
+Migrations 
+
+to allow autocreated migration from existing database simply run first :
+
+add migration 
+./do.sh startMigration
+
+update db upon migration
+./do.sh updateMigration
+
+remove migration
+./do.sh removeMigration
